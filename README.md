@@ -91,11 +91,6 @@ User ← Pre-Signed Download URL ← AWS Lambda
 * Docker-based Lambda deployment
 * Additional file format support
 
-## Contributors
-
-* Rupa Sree Guttikonda – Lambda Development, File Conversion Logic
-* Sathwika Cherukuri – AWS Infrastructure, S3, API Gateway, IAM Configuration
-
 ## Author
 
 Rupa Sree Guttikonda
